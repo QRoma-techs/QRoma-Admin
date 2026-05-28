@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/parse-menu.js": {
+    "api/**/*.js": {
       "runtime": "@vercel/node@3.0.0"
     }
   }
